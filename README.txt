@@ -1,4 +1,3 @@
-Free Bootstrap Theme
 AUTHOR: uiCookies.com
 
 AUTHOR URL: https://uiCookies.com/ 
