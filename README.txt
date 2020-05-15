@@ -1,10 +1,12 @@
-AUTHOR: uiCookies.com
-
-AUTHOR URL: https://uiCookies.com/ 
-
 
 
 CREDITS: 
+
+** RECREATED and MODIFIED by SHIVAM KUMAR Owner of https://www.computersethics.xyz/
+About Shivam kumar:
+profession:- Ehical Hacker, Pentester, Programmer, Youtuber, Web Developer, SEO expert.
+
+=======================================================================================
 
 Bootstrap
 http
